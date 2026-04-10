@@ -1,22 +1,22 @@
-\# 📚 2026-1 — Graphs, Trees \& Advanced Problem Solving (In Progress)
+# 📚 2026-1 — Graphs, Trees \& Advanced Problem Solving (In Progress)
 
 
 
-This semester marks the beginning of a deeper focus on \*\*data structures and algorithms\*\*, particularly \*\*trees and graph theory\*\*.
+This semester marks the beginning of a deeper focus on **data structures and algorithms**, particularly **trees and graph theory**.
 
 The work in this period is currently in progress and will expand as new topics and projects are developed.
 
 
 
-\---
+---
 
 
 
-\## 📂 Structure
+## 📂 Structure
 
 
 
-\### 🔹 graph-and-tree-algorithms
+### 🔹 graph-and-tree-algorithms
 
 
 
@@ -24,11 +24,11 @@ Core focus of the semester so far.
 
 
 
-\* Introduction to \*\*trees and graph representations\*\*
+* Introduction to **trees and graph representations**
 
-\* Traversal algorithms such as \*\*DFS and BFS\*\*
+* Traversal algorithms such as **DFS and BFS**
 
-\* Early exploration of problem-solving using these structures
+* Early exploration of problem-solving using these structures
 
 
 
@@ -36,11 +36,11 @@ Core focus of the semester so far.
 
 
 
-\---
+---
 
 
 
-\## 🚀 Upcoming Work
+## 🚀 Upcoming Work
 
 
 
@@ -48,49 +48,49 @@ This semester will include more advanced content, such as:
 
 
 
-\* Complex graph algorithms
+* Complex graph algorithms
 
-\* Optimization techniques
+* Optimization techniques
 
-\* Larger, structured projects based on algorithmic problem solving
-
-
-
-\---
+* Larger, structured projects based on algorithmic problem solving
 
 
 
-\## 🧠 Current Focus
+---
 
 
 
-\* Strengthening understanding of \*\*graph theory and trees\*\*
-
-\* Improving \*\*problem-solving skills for competitive programming\*\*
-
-\* Writing more efficient and scalable solutions
+## 🧠 Current Focus
 
 
 
-\---
+* Strengthening understanding of **graph theory and trees**
+
+* Improving **problem-solving skills for competitive programming**
+
+* Writing more efficient and scalable solutions
 
 
 
-\## ⚙️ Technologies
+---
 
 
 
-\* C++
-
-\* Python (for prototyping and testing)
+## ⚙️ Technologies
 
 
 
-\---
+* C++
+
+* Python (for prototyping and testing)
 
 
 
-\## 📌 Notes
+---
+
+
+
+## 📌 Notes
 
 
 
